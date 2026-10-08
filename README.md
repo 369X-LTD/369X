@@ -1,4 +1,4 @@
-# $ whoami:
+# $ 369X LTD:
 
 **369X LTD** is a digital asset capital management and research firm for investors, operators, and builders seeking clearer frameworks for navigating digital asset markets.
 
