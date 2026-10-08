@@ -25,11 +25,11 @@ We treat the work as iterative.
 
 This repository documents selected research, frameworks, experiments, infrastructure work, and technical projects developed through that process.
 
-**Connect**
+**Connect with us**
 
-* 𝕏: @real369x
+* 𝕏: @369X_LTD
 * 📱 Telegram: @real369x
-* 💬 Discord: @real369x
+* 💬 Substack: @369x
 
 369X LTD
 **Structure • Strategy • Scale**
