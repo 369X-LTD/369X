@@ -2,7 +2,7 @@
 
 **369X LTD** is a digital asset capital management and research firm for investors, operators, and builders seeking clearer frameworks for navigating digital asset markets.
 
-I’m Anthony, Founder & Executive Chairman of **369X LTD**.
+I’m Anthony, Founder & Managing Director of **369X LTD**.
 
 We combine market intelligence, capital allocation, risk management, custody, treasury operations, and infrastructure development to help evaluate opportunities systematically and operate with greater clarity, discipline, and repeatability.
 
